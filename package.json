@@ -1,0 +1,29 @@
+{
+    "name": "testingallscenioresinplaywright",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "fileUpload": "npx playwright test ./tests/fileUpload.spec.js",
+        "IframeFile": "npx playwright test ./tests/iframeHandlers.spec.js",
+        "newTab": "npx playwright test ./tests/newTab.spec.js",
+        "windowsHandler": "npx playwright test ./tests/windowsPopup.spec.js",
+        "downloadConfigure": "npx playwright test ./tests/downloadFile.spec.js",
+        "dataUpdationFS": "npx playwright test ./tests/dataUpdation.spec.js",
+        "alertBox" :"npx playwright test ./tests/alertBoxes.spec.js",
+        "allureResultsClean": "npx allure generate ./allure-results --clean",
+        "allureResultsGenerate": "npx allure open ./allure-report"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.37.1",
+        "allure-commandline": "^2.23.1",
+        "allure-playwright": "^2.5.0"
+    },
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "fs": "^0.0.1-security"
+    }
+}

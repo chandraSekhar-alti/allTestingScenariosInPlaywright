@@ -1,0 +1,25 @@
+The Given Problem statement :
+The problem statement was to automate the apply leave scenario in HRMS 
+
+--> The Saturday- Sunday scenario
+-->From present date - 7th day
+
+(Selenium 4, C#)
+(Implement Page Object Model)
+
+
+What I have understood by this :
+
+To provide solution for the given problem through automation scripts,
+
+Step 1 : we first need to navigate to the HRMS website.
+Step 2 : Then, we need to enter valid credentials in the login page and submit.
+Step 3 : If the credentials are valid we then need to navigate to apply leaves page.
+Step 4 : In Apply leave page, enter the details and submit the details.
+
+What Is covered from above steps :
+
+Navigating to the HRMS website.
+Login Page locators as well as method to fill in the credentials.
+Navigating to Dashboard page and then to apply leave page.
+Implemented Page Object Model.

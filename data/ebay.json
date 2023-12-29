@@ -1,0 +1,20 @@
+{
+    "credentials":{
+        "Username": "althichandu123@gmail.com",
+        "password": "MyRules@123"
+    },
+
+    "navbar": [
+        "Electronics",
+        "Motors",
+        "Fashion",
+        "Collectibles and Art",
+        "Sports",
+        "Health & Beauty",
+        "Industrial equipment",
+        "Home & Garden",
+        "Deals",
+        "Sell"
+    ],
+    "itemName":"dell laptop"
+}

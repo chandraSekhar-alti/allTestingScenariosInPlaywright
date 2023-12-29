@@ -1,0 +1,43 @@
+{
+    "IframeCenterText": "An iFrame containing the TinyMCE WYSIWYG Editor",
+    "w3HeaderTexts": [
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "JAVASCRIPT"
+        },
+        {
+            "name": "SQL"
+        }, {
+            "name": "PYTHON"
+        }, {
+            "name": "JAVA"
+        }, {
+            "name": "PHP"
+        }, {
+            "name": "HOW TO"
+        }
+    ],
+    "accentureHeaderTexts": [
+        {
+            "text": "Insights"
+        },
+        {
+            "text": "Services"
+        },
+        {
+            "text": "Industries"
+        },
+        {
+            "text": "Careers"
+        }, {
+            "text": "About Accenture"
+        }
+    ],
+    "downloadPath": "C:/2023/August/4thWeek/testingAllScenioresInPlaywright/downloads/sample.txt",
+    "updatedDataFromFS": "14:58:07"
+}
